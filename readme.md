@@ -1,5 +1,7 @@
 # Simple Exchange App
 
+Heroku URL: https://exchange-exaple.herokuapp.com/
+
 ## Operations in API
 - Restart application and exchange rates
     - URL: {baseURL}/Restart
