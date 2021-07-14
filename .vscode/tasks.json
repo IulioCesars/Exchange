@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "NPM: Start",
+			"type": "npm",
+			"script": "start",
+			"problemMatcher": [],
+		},
+		{
+			"label": "TSC",
+			"type": "typescript",
+			"tsconfig": "tsconfig.json",
+			"problemMatcher": [
+				"$tsc"
+			]
+		}
+	]
+}
