@@ -1,10 +1,7 @@
 import { describe, it } from 'mocha'
 import { expect, assert } from 'chai';
 import { MockFactory } from '../mooks/factory/MockFactory';
-import { ExchangeRateDTO } from '../core/dto/ExchangeRateDto';
-import { ExchangeTransactionDTO } from '../core/dto/ExchangeTransactionDTO';
 import { GenerateRandomNumber } from '../mooks/utils/Random';
-import { resourceUsage } from 'process';
 import { BusinessErrorDTO } from '../core/dto/BusinessErrorDTO';
 
 const factory = new MockFactory();

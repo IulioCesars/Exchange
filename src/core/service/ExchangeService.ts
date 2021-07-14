@@ -1,6 +1,6 @@
 import { BusinessErrorDTO } from "../dto/BusinessErrorDTO";
 import { CurrencyBalanceDTO } from "../dto/CurrencyBalanceDTO";
-import { ExchangeRateDTO } from "../dto/ExchangeRateDto";
+import { ExchangeRateDTO } from "../dto/ExchangeRateDTO";
 import { ExchangeTransactionDTO } from "../dto/ExchangeTransactionDTO";
 import { ExchangeRate } from "../entities/ExchangeRate";
 import { ExchangeTransaction } from "../entities/ExchangeTransaction";
